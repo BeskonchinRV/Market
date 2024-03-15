@@ -1,0 +1,17 @@
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\bin\Debug\Market.exe.config
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\bin\Debug\Market.exe
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\bin\Debug\Market.pdb
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Views\Authorization.g.cs
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\App.g.cs
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market_MarkupCompile.cache
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market_MarkupCompile.lref
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Views\Authorization.baml
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Views\MainWindow.baml
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.g.resources
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.exe
+C:\Users\Roman\Desktop\Учеба\Бд\Глоба\Market\Market\obj\Debug\Market.pdb
